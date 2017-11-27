@@ -1,4 +1,4 @@
-![alt text](/resources/images/header.png)
+
 
 # _Food Delivery Service Manager_
 -------------------
